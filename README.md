@@ -1,1 +1,1 @@
-This project is about setting up a simble html website that has 3 link to different html pages. It shows the ease with which one can create a simple html webpage to illustrate some recipes in this example.
+This project is about setting up a simple html website that has 3 link to different html pages. It shows the ease with which one can create a simple html webpage to illustrate some recipes in this example.
